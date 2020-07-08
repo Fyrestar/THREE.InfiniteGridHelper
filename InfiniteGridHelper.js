@@ -1,4 +1,4 @@
-// Author: Fyrestar info@mevedia.com
+// Author: Fyrestar https://mevedia.com (https://github.com/Fyrestar/THREE.InfiniteGridHelper)
 THREE.InfiniteGridHelper = function InfiniteGridHelper(size1, size2, color, distance) {
 
     color = color || new THREE.Color('white');
