@@ -1,3 +1,4 @@
+// Author: Fyrestar info@mevedia.com
 THREE.InfiniteGridHelper = function InfiniteGridHelper(size1, size2, color, distance) {
 
     color = color || new THREE.Color('white');
